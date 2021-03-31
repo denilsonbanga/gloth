@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Gloth",
+    "slug": "Gloth",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img/icon.png",
+    "splash": {
+      "image": "./assets/img/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gloth.dicionario",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.yourcompany.gloth.dicionario",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/img/icon.png"
+    },
+    "description": ""
+  }
+}
